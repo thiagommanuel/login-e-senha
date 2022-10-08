@@ -1,0 +1,42 @@
+label {
+    display: block;
+}
+
+#flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 95vh;
+}
+
+img {
+    display: inline-block;
+    border: 2px red dashed;
+    position: relative;
+}
+
+form {
+    display: inline-block;
+    padding: 10px;
+    border: 1px blue dashed;
+    border-radius: 20%;
+    background-color: rgba(156, 254, 221, 0.721);
+}
+
+#seila {
+    display: inline-block;
+}
+
+#check {
+    display: inline-block;
+}
+
+#botao {
+    display: block;
+}
+
+#senha {
+    display: block;
+}
